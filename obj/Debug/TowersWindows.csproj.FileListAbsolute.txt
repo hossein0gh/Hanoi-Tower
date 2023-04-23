@@ -1,0 +1,54 @@
+C:\aa\C#\TowersWindows\bin\Debug\TowersWindows.exe.config
+C:\aa\C#\TowersWindows\bin\Debug\TowersWindows.exe
+C:\aa\C#\TowersWindows\bin\Debug\TowersWindows.pdb
+C:\aa\C#\TowersWindows\obj\Debug\TowersWindows.Form1.resources
+C:\aa\C#\TowersWindows\obj\Debug\TowersWindows.Properties.Resources.resources
+C:\aa\C#\TowersWindows\obj\Debug\TowersWindows.csproj.GenerateResource.cache
+C:\aa\C#\TowersWindows\obj\Debug\TowersWindows.csproj.CoreCompileInputs.cache
+C:\aa\C#\TowersWindows\obj\Debug\TowersWindows.exe
+C:\aa\C#\TowersWindows\obj\Debug\TowersWindows.pdb
+C:\aa\C#\TowersWindows\obj\Debug\TowersWindows.csprojAssemblyReference.cache
+C:\Users\Rose\Desktop\TowersWinformC--master\TowersWindows\bin\Debug\TowersWindows.exe.config
+C:\Users\Rose\Desktop\TowersWinformC--master\TowersWindows\bin\Debug\TowersWindows.exe
+C:\Users\Rose\Desktop\TowersWinformC--master\TowersWindows\bin\Debug\TowersWindows.pdb
+C:\Users\Rose\Desktop\TowersWinformC--master\TowersWindows\obj\Debug\TowersWindows.csproj.AssemblyReference.cache
+C:\Users\Rose\Desktop\TowersWinformC--master\TowersWindows\obj\Debug\TowersWindows.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rose\Desktop\TowersWinformC--master\TowersWindows\obj\Debug\TowersWindows.Form1.resources
+C:\Users\Rose\Desktop\TowersWinformC--master\TowersWindows\obj\Debug\TowersWindows.Properties.Resources.resources
+C:\Users\Rose\Desktop\TowersWinformC--master\TowersWindows\obj\Debug\TowersWindows.csproj.GenerateResource.cache
+C:\Users\Rose\Desktop\TowersWinformC--master\TowersWindows\obj\Debug\TowersWindows.csproj.CoreCompileInputs.cache
+C:\Users\Rose\Desktop\TowersWinformC--master\TowersWindows\obj\Debug\TowersWindows.exe
+C:\Users\Rose\Desktop\TowersWinformC--master\TowersWindows\obj\Debug\TowersWindows.pdb
+C:\Users\Rose\Desktop\data structure\TowersWinformC--master\TowersWindows\bin\Debug\TowersWindows.exe.config
+C:\Users\Rose\Desktop\data structure\TowersWinformC--master\TowersWindows\bin\Debug\TowersWindows.exe
+C:\Users\Rose\Desktop\data structure\TowersWinformC--master\TowersWindows\bin\Debug\TowersWindows.pdb
+C:\Users\Rose\Desktop\data structure\TowersWinformC--master\TowersWindows\obj\Debug\TowersWindows.csproj.AssemblyReference.cache
+C:\Users\Rose\Desktop\data structure\TowersWinformC--master\TowersWindows\obj\Debug\TowersWindows.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rose\Desktop\data structure\TowersWinformC--master\TowersWindows\obj\Debug\TowersWindows.Form1.resources
+C:\Users\Rose\Desktop\data structure\TowersWinformC--master\TowersWindows\obj\Debug\TowersWindows.Properties.Resources.resources
+C:\Users\Rose\Desktop\data structure\TowersWinformC--master\TowersWindows\obj\Debug\TowersWindows.csproj.GenerateResource.cache
+C:\Users\Rose\Desktop\data structure\TowersWinformC--master\TowersWindows\obj\Debug\TowersWindows.csproj.CoreCompileInputs.cache
+C:\Users\Rose\Desktop\data structure\TowersWinformC--master\TowersWindows\obj\Debug\TowersWindows.exe
+C:\Users\Rose\Desktop\data structure\TowersWinformC--master\TowersWindows\obj\Debug\TowersWindows.pdb
+C:\Users\Rose\Desktop\data structure\hanoi_tower\TowersWindows\bin\Debug\TowersWindows.exe.config
+C:\Users\Rose\Desktop\data structure\hanoi_tower\TowersWindows\bin\Debug\TowersWindows.exe
+C:\Users\Rose\Desktop\data structure\hanoi_tower\TowersWindows\bin\Debug\TowersWindows.pdb
+C:\Users\Rose\Desktop\data structure\hanoi_tower\TowersWindows\obj\Debug\TowersWindows.csproj.AssemblyReference.cache
+C:\Users\Rose\Desktop\data structure\hanoi_tower\TowersWindows\obj\Debug\TowersWindows.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rose\Desktop\data structure\hanoi_tower\TowersWindows\obj\Debug\TowersWindows.Form1.resources
+C:\Users\Rose\Desktop\data structure\hanoi_tower\TowersWindows\obj\Debug\TowersWindows.Properties.Resources.resources
+C:\Users\Rose\Desktop\data structure\hanoi_tower\TowersWindows\obj\Debug\TowersWindows.csproj.GenerateResource.cache
+C:\Users\Rose\Desktop\data structure\hanoi_tower\TowersWindows\obj\Debug\TowersWindows.csproj.CoreCompileInputs.cache
+C:\Users\Rose\Desktop\data structure\hanoi_tower\TowersWindows\obj\Debug\TowersWindows.exe
+C:\Users\Rose\Desktop\data structure\hanoi_tower\TowersWindows\obj\Debug\TowersWindows.pdb
+C:\Users\Rose\Desktop\university\Term 4\data structure\hanoi_tower\TowersWindows\bin\Debug\TowersWindows.exe.config
+C:\Users\Rose\Desktop\university\Term 4\data structure\hanoi_tower\TowersWindows\bin\Debug\TowersWindows.exe
+C:\Users\Rose\Desktop\university\Term 4\data structure\hanoi_tower\TowersWindows\bin\Debug\TowersWindows.pdb
+C:\Users\Rose\Desktop\university\Term 4\data structure\hanoi_tower\TowersWindows\obj\Debug\TowersWindows.csproj.AssemblyReference.cache
+C:\Users\Rose\Desktop\university\Term 4\data structure\hanoi_tower\TowersWindows\obj\Debug\TowersWindows.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rose\Desktop\university\Term 4\data structure\hanoi_tower\TowersWindows\obj\Debug\TowersWindows.Form1.resources
+C:\Users\Rose\Desktop\university\Term 4\data structure\hanoi_tower\TowersWindows\obj\Debug\TowersWindows.Properties.Resources.resources
+C:\Users\Rose\Desktop\university\Term 4\data structure\hanoi_tower\TowersWindows\obj\Debug\TowersWindows.csproj.GenerateResource.cache
+C:\Users\Rose\Desktop\university\Term 4\data structure\hanoi_tower\TowersWindows\obj\Debug\TowersWindows.csproj.CoreCompileInputs.cache
+C:\Users\Rose\Desktop\university\Term 4\data structure\hanoi_tower\TowersWindows\obj\Debug\TowersWindows.exe
+C:\Users\Rose\Desktop\university\Term 4\data structure\hanoi_tower\TowersWindows\obj\Debug\TowersWindows.pdb
