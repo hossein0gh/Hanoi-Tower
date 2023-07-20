@@ -203,7 +203,8 @@ namespace TowersWindows
             SolidBrush sb = new SolidBrush(Color.Navy);
             Graphics g = panel1.CreateGraphics();
             int topSpacing = 100;
-            int width = 20;
+            int width ;
+            width= 20;
             //Draw bottom bar
             g.FillRectangle(sb, 0, panel1.Height - baseHeight, panel1.Width, baseHeight);
             //Draw Peg 1
